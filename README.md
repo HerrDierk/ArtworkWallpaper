@@ -1,6 +1,6 @@
 # ArtworkWallpaper
 
-All kinds of wallpapers (not Linux related)
+All kinds of wallpapers (mostly not Linux related)
 
 Most of the WP's are 1920x1080.
 
